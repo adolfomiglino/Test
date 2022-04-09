@@ -67,6 +67,6 @@ public class FaceDetection extends Application
 		// load the native OpenCV library
 		System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
 		
-		launch(args); 
+		launch(args);  
 	}
 }
